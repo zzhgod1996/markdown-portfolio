@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: adaptive
 ---
 
-{% include 01-name.md %}
+{% include ershi.md %}
 
