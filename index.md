@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include index.md %}
+{% include 01-name.md %}
 
 <br>
 
