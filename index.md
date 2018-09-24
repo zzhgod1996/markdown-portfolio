@@ -1,3 +1,6 @@
 ---
-layout: default
+layout: adaptive
 ---
+
+{% include ershi.md %}
+
